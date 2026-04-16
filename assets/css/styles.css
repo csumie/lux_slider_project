@@ -1,5 +1,5 @@
 /* ===== GOOGLE FONTS ===== */
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:700&display=swap');
 
@@ -26,8 +26,8 @@
 
 
 /* ===== Font Family ===== */
---body-font: 'Oswald', sans-serif;
---secondary-font: 'Libre Franklin', serif;
+--header-font: 'Playfair Display', serif;
+--body-font: 'Libre Franklin', serif;
 --stylized-font: 'IBM Plex Sans', sans-serif;
 
 }
@@ -55,7 +55,8 @@ body {
 }
 
 .head h2 {
-  font: 400 1.5rem/1.2 Inter, sans-serif;
+  font-family: var(--body-font);
+  font: 400 1.5rem/1.2;
   color: #fff;
 }
 
