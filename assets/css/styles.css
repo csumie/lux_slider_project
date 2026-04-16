@@ -11,6 +11,19 @@
   --closed: 5rem;
   --open: 30rem;
   --accent: #ff6b35;
+
+
+/* ===== Colors ===== */
+--background-color: #07090d;
+--first-color: #090707;
+--first-color-light: #BBB5AF;
+--first-color-dark: #010101;
+--text-color: #524748;
+--first-color-grey: #7B6F71;
+--first-color-lighten: #FBF9F9;
+--link-color: #333333;
+--sub-link-color: #383A3D;
+
 }
 
 * {
@@ -21,7 +34,7 @@
 
 body {
   font-family: Inter, sans-serif;
-  background: #07090d;
+  background: var(--background-color);
   color: #c5c7ce;
 }
 
