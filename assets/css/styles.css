@@ -55,7 +55,7 @@ body {
 }
 
 .head h2 {
-  font-family: var(--body-font);
+  font-family: var(--header-font);
   font: 400 1.5rem/1.2;
   color: #fff;
 }
