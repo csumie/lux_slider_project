@@ -5,11 +5,13 @@
   --open: 30rem;
   --accent: #ff6b35;
 }
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   font-family: Inter, sans-serif;
   background: #07090d;
