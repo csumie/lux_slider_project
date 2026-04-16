@@ -24,6 +24,12 @@
 --link-color: #333333;
 --sub-link-color: #383A3D;
 
+
+/* ===== Font Family ===== */
+--body-font: 'Oswald', sans-serif;
+--secondary-font: 'Libre Franklin', serif;
+--stylized-font: 'IBM Plex Sans', sans-serif;
+
 }
 
 * {
@@ -47,10 +53,12 @@ body {
   align-items: flex-end;
   gap: 2rem;
 }
+
 .head h2 {
   font: 400 1.5rem/1.2 Inter, sans-serif;
   color: #fff;
 }
+
 @media (min-width: 1024px) {
   .head h2 {
     font-size: 2.25rem;
