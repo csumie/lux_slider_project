@@ -168,7 +168,7 @@ body {
   z-index: 0;
 }
 .project-card__title {
-  color: #fff;
+  color: var(--first-color-light);
   font-weight: 700;
   font-size: 1.35rem;
   writing-mode: vertical-rl;
