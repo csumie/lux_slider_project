@@ -30,6 +30,22 @@
 --body-font: 'Libre Franklin', serif;
 --stylized-font: 'IBM Plex Sans', sans-serif;
 
+/* ===== Font Size ===== */
+--h1-font-size: 4rem;
+--h2-font-size: 3rem;
+--h3-font-size: 2.5rem;
+--h4-font-size: 1rem;
+--h5-font-size: 1.1em;
+--h6-font-size: 1.152rem;
+
+/* ===== Font weight ===== */
+--font-lighten: 200;
+--font-light: 300;
+--font-regular: 400;
+--font-medium: 500;
+--font-semi-bold: 600;
+--font-bold: 700;
+
 }
 
 * {
