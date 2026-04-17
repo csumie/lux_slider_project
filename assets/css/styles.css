@@ -215,7 +215,7 @@ body {
   border: none;
   border-radius: 9999px;
   background: var(--accent);
-  color: #fff;
+  color: var(--first-color-light);
   font-size: 0.9rem;
   font-weight: 600;
   cursor: pointer;
