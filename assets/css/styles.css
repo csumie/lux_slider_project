@@ -401,7 +401,7 @@ body {
 }
 
 .popup {
-  background: #fff;
+  background: var(--first-color-light);
   padding: 20px;
   border-radius: 10px;
   transform: scale(0.8);
