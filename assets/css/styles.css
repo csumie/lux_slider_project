@@ -222,7 +222,7 @@ body {
   cursor: pointer;
 }
 .project-card__btn:hover {
-  background: #ff824f;
+  background: var(--hover-button-color);
 }
 
 .dots {
