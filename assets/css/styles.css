@@ -98,7 +98,7 @@ body {
   transition: 0.3s;
 }
 .nav-btn:hover {
-  background: var(--accent);
+  background: var(--accent-bg-color);
 }
 .nav-btn:disabled {
   opacity: 0.3;
