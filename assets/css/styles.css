@@ -10,11 +10,12 @@
   --speed: 0.55s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   --closed: 5rem;
   --open: 30rem;
-  --accent: #ff6b35;
+
 
 
 /* ===== Colors ===== */
 --background-color: #07090d;
+--accent-bg-color: #ff6b35;
 --first-color: #c5c7ce;
 --first-color-light: #ffffff;
 --first-color-dark: #010101;
