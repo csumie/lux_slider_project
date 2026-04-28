@@ -72,8 +72,14 @@ body {
   gap: 2rem;
 }
 
-.head h2 {
+.head h1 {
   font-family: var(--header-font);
+  font: 400 1.5rem/1.2;
+  color: var(--first-color-light);
+}
+
+.head h2 {
+  font-family: var(--body-font);
   font: 400 1.5rem/1.2;
   color: var(--first-color-light);
 }
