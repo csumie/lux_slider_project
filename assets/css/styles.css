@@ -162,6 +162,7 @@ body {
   filter: brightness(0.75) saturate(75%);
   transition: filter 0.3s, transform var(--speed);
 }
+
 .project-card:hover .project-card__bg {
   filter: brightness(0.9) saturate(100%);
   transform: scale(1.06);
@@ -179,6 +180,7 @@ body {
   background: linear-gradient(transparent 40%, rgba(0, 0, 0, 0.85) 100%);
   z-index: 0;
 }
+
 .project-card__title {
   color: var(--first-color-light);
   font-weight: 700;
