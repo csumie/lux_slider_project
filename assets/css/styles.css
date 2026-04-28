@@ -188,6 +188,7 @@ body {
   writing-mode: vertical-rl;
   transform: rotate(180deg);
 }
+
 .project-card__thumb,
 .project-card__desc,
 .project-card__btn {
